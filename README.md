@@ -38,7 +38,7 @@ After installing, follow these steps to play the game:
 The Hangman project consists of several python scripts which were used in the development of the hangman game. Since this project was used as an educational excercise to consolidate the lessons that I had learnt at AiCore, each script was used to progressively expand on the code, focusing on different aspects of what was learnt on the course. 
 1. 'milestone_2.py': This is the first python file created for the hangman project. This file focused on creating variables for the game. It also involved creating if-else statements and while loops.
 2. 'milestone_3.py': This file added if-else and while loops which checked if the user input was valid and whether their guess was in the chosen word.
-3. 'milestone_4.py': This file focuseed on using Object Oriented Programming (OOP) and creating a class to develop a complete hangman game. 
+3. 'milestone_4.py': This file focused on using Object Oriented Programming (OOP) and creating a class to develop a complete hangman game. 
 4. 'milestone_5.py': The final Python script containing the Hangman game logic and execution flow. This file is the the culmination of the project, where all of the concepts learnt come together. This file includes the Hangman class definition and the play_game function which together manage the game's setup, player interactions, and game-over conditions. 
 
 ## Licence Information
